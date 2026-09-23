@@ -40,24 +40,31 @@ The eight-component profile is the primary REB output. It records whether predef
 
 The manuscript defines four supporting data files:
 
-1. **Supplementary Data 1** — the 76-study extraction database.
-2. **Supplementary Data 2** — report-level full-text decisions and extraction-stage eligibility verification.
-3. **Supplementary Data 3** — the complete executed database-specific search strategies.
-4. **Supplementary Data 4** — original reviewer ratings, agreement calculations, evidence log, adjudication record, and final consensus matrices.
+1. [**Supplementary Data 1**](Supplementary_Data_1_Master_Extraction_76_Studies.xlsx) — the 76-study extraction database, with final study-level REB profiles synchronized to the adjudicated consensus.
+2. [**Supplementary Data 2**](Supplementary_Data_2_Final_Full_Text_Eligibility_76.xlsx) — report-level full-text decisions and the recorded verification of the 13 extraction-stage exclusions.
+3. [**Supplementary Data 3**](Supplementary_Data_3_Executed_Search_Strategies_2026-09-01.docx) — the complete executed database-specific search strategies.
+4. [**Supplementary Data 4**](Supplementary_Data_4_Final_Consensus_and_Statistical_Analysis_76.xlsx) — original reviewer ratings, agreement calculations, evidence log, adjudication record, and authoritative final consensus matrices.
 
-Supplementary Tables S1–S14 document the searches, study flow and exclusions, REB rules and results, risk-of-bias and applicability assessment, study and configuration registers, extraction-stage exclusions, and supplementary-file checks.
+Supplementary Tables S1–S14 document the searches, study flow and exclusions, REB rules and results, methodological concerns and wearable applicability assessment, study and configuration registers, extraction-stage exclusions, and supplementary-file checks.
+
+Data 1 preserves extraction-stage coding separately from the final study-level profiles; final profiles and their formula-driven summaries use the adjudicated values in Data 4, including L7 = 19/76. Data 2 includes the source verification records without inventing missing reviewer initials or dates. Original independent reviewer ratings are preserved in Data 4. Historical worksheet identifiers containing `Risk` are retained for traceability; the current manuscript calls this the methodological concerns and wearable applicability assessment.
+
+The author-developed assessment comprises seven methodological-concern domains (D1–D7) and one wearable-applicability domain (D8). It has not been externally validated and is distinct from REB.
+
+Pre-adjudication agreement, calculated from the original reviewer ratings, was 516/606 (85.1%; pooled Cohen's κ = 0.668) for REB and 364/606 (60.1%; pooled unweighted κ = 0.361; linear-weighted κ = 0.466) for the methodological concerns and wearable applicability assessment. Each calculation excluded two of the 608 pairs because they contained an unclear rating. These figures describe the original independent ratings, not consensus agreement.
 
 The registered protocol and documented review status are available through [OSF Registries](https://doi.org/10.17605/OSF.IO/JWYFS).
 
-## Files currently retained in this repository
+## Earlier files awaiting removal
 
 - `REB_primary_audit_matrix.csv`
 - `Supplementary_Data_1_REB_Coding_Agreement_and_Adjudication.xlsx`
 
-> **Version note:** These two files contain the earlier 29-study audit and are retained for version history. They are not the synchronized dataset for the current 76-study manuscript. The current supporting package is the four-file Supplementary Data 1–4 set described above.
+> **Legacy files:** These two files contain the earlier 29-study audit and are superseded by the linked Supplementary Data 1–4 package. They must not be used for the current 76-study manuscript. Previous versions remain recoverable through Git history after these files are removed.
 
 Publisher-provided full-text articles and supplementary files are not redistributed. No custom software was developed for this review.
 
 ## Citation
 
 Elgendi M, Gurram P, P. J. S, Shokurov AV, and Menon C. *A systematic review of materials processing and reliability evidence in FDM printed wearable sensors.* Manuscript.
+
