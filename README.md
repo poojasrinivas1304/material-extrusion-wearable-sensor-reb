@@ -1,4 +1,4 @@
-# A systematic review of materials processing and reliability evidence in FDM printed wearable sensors
+# A systematic review of materials processing and reliability evidence in FDM-printed wearable sensors
 
 This repository is the public, versioned companion to the systematic review by Mohamed Elgendi, Pooja Gurram, Swarubini P. J., Alexander V. Shokurov, and Carlo Menon.
 
@@ -60,5 +60,5 @@ Publisher-provided full-text articles and supplementary files are not redistribu
 
 ## Citation
 
-Elgendi M, Gurram P, P. J. S, Shokurov AV, and Menon C. *A systematic review of materials processing and reliability evidence in FDM printed wearable sensors.* Manuscript.
+Elgendi M, Gurram P, P. J. S, Shokurov AV, and Menon C. *A systematic review of materials processing and reliability evidence in FDM-printed wearable sensors.* Manuscript.
 
