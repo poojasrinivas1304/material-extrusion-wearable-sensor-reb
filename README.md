@@ -55,12 +55,6 @@ Pre-adjudication agreement, calculated from the original reviewer ratings, was 5
 
 The registered protocol and documented review status are available through [OSF Registries](https://doi.org/10.17605/OSF.IO/JWYFS).
 
-## Earlier files awaiting removal
-
-- `REB_primary_audit_matrix.csv`
-- `Supplementary_Data_1_REB_Coding_Agreement_and_Adjudication.xlsx`
-
-> **Legacy files:** These two files contain the earlier 29-study audit and are superseded by the linked Supplementary Data 1–4 package. They must not be used for the current 76-study manuscript. Previous versions remain recoverable through Git history after these files are removed.
 
 Publisher-provided full-text articles and supplementary files are not redistributed. No custom software was developed for this review.
 
