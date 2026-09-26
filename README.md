@@ -16,10 +16,10 @@ The eight-component Reliability Evidence Benchmark (REB) records whether predefi
 | L4 | Quantitative response metric | 76/76 (100.0%) |
 | L5 | Repeated-measurement stability | 62/76 (81.6%) |
 | L6 | Environmental or use-related exposure | 31/76 (40.8%) |
-| L7 | Integration or interface integrity | 29/76 (38.2%) |
+| L7 | Integration or interface integrity | 20/76 (26.3%) |
 | L8 | Independent-device variation | 17/76 (22.4%) |
 
-The mean descriptive REB score was 0.656, the median was 0.625, and the range was 0.375–1.000. For L5–L8, 6 studies met no dimensions, 24 met one, 24 met two, 21 met three, and 1 met all four.
+The mean descriptive REB score was 0.641, the median was 0.625, and the range was 0.375–1.000. For L5–L8, 7 studies met no dimensions, 27 met one, 25 met two, 15 met three, and 2 met all four.
 
 Final-round reviewer agreement after targeted reassessment was 99.8% (605/606; Cohen's κ = 0.996). Two unresolved Reviewer 2 L7 entries were excluded from this calculation. The final consensus matrix was used for synthesis.
 
